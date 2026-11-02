@@ -1,4 +1,4 @@
-# ALPHARUNE: Title 1
+# ALPHARUNE: DEMO Title 1 (Title 1 Beta coming out soon)
 
 **ALPHARUNE: Title 1** is an open-source, sci-fi RPG tribute built in Python using Pygame, heavily inspired by Toby Fox's *Deltarune* and *Undertale*. 
 
